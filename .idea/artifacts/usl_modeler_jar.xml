@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="usl-modeler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/usl_modeler_jar</output-path>
+    <root id="archive" name="usl-modeler.jar">
+      <element id="module-output" name="usl-modeler" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-simple/0.36/ejml-simple-0.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-ddense/0.36/ejml-ddense-0.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-cdense/0.36/ejml-cdense-0.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-dsparse/0.36/ejml-dsparse-0.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-core/0.36/ejml-core-0.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-fdense/0.36/ejml-fdense-0.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/codahale/usl4j/0.7.0/usl4j-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ddogleg/ddogleg/0.15/ddogleg-0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ejml/ejml-zdense/0.36/ejml-zdense-0.36.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
